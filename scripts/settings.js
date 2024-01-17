@@ -75,9 +75,9 @@ const initSdk = (name) => {
 				}
 			},
 			theme: 'default',
-			URI: 'idcs-oda-376fcb6ff7de4c1c82a5378d02afa35a-da2.data.digitalassistant.oci.oraclecloud.com',
+			URI: 'idcs-oda-278c27aea07d48a8b8ac413aa8aa67c1-da2.data.digitalassistant.oci.oraclecloud.com', 
 			clientAuthEnabled: isClientAuthEnabled,
-			channelId: 'e8655acf-cc20-452f-aa7f-c40114343689',
+			channelId: 'eeb1a0c0-4a1a-4b9d-a25d-8e2fa0eb3731',
 			enableSpeech: true
 		};
 
